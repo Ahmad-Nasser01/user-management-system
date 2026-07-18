@@ -10,9 +10,15 @@ A full-stack web application designed for seamless user data management. It allo
 - **Delete Records:** Securely remove users with a confirmation prompt.
 - **Dynamic UI:** Built with Bootstrap 5 for a responsive and modern design.
 
-## Demo
-- **Watch the project in action:** [Click here to watch the demonstration video](https://youtu.be/X4h8HFN3LAs)
+## Project Demo
 
+You can experience the system through the links below:
+
+- **Live Preview:** [Click here to visit the website](mytask-2026.infinityfree.io)
+  *(Note: This is hosted on a free platform and may occasionally experience downtime.)*
+- **Demonstration Video:** [Click here to watch the project video](https://youtu.be/X4h8HFN3LAs)
+
+The project is fully functional and performs CRUD operations as demonstrated in the provided code.
 ## Tech Stack
 - **Frontend:** HTML5, CSS3, Bootstrap 5.
 - **Backend:** PHP.
