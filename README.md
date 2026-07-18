@@ -10,6 +10,9 @@ A full-stack web application designed for seamless user data management. It allo
 - **Delete Records:** Securely remove users with a confirmation prompt.
 - **Dynamic UI:** Built with Bootstrap 5 for a responsive and modern design.
 
+## Demo
+- **Watch the project in action:** [Click here to watch the demonstration video](https://youtu.be/X4h8HFN3LAs)
+
 ## Tech Stack
 - **Frontend:** HTML5, CSS3, Bootstrap 5.
 - **Backend:** PHP.
